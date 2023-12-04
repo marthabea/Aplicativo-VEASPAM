@@ -22,14 +22,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |  ID | Descrição do Requisito  |  Prioridade |
 | ------------ | ------------ | ------------ |
-|  RF-001 |  ... | ...  |
+|  RF-001 |  A aplicação móvel deve permitir ao usuário cadastrar uma conta. | ALTA  |
+|  RF-002 |  A aplicação móvel deve permitir a atribuição de níveis de autorização de acesso a informações registradas na aplicação. | ALTA  |
 
 
 #### Requisitos Não Funcionais
 
 |  ID | Descrição do Requisito  |  Prioridade |
 |-------|-------------------------|----|
-|RNF-001| ... | ... |
+|RNF-001| A aplicação móvel deve ser compatível com os sistemas Android e iOS | ALTA |
 
 ## Restrições
 
