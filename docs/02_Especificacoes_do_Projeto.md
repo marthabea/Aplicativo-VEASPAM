@@ -12,7 +12,7 @@ Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Co
 
 |  EU COMO... PERSONA | QUERO/PRECISO... FUNCIONALIDADE| PARA.. MOTIVO/VALOR  |
 | ------------ | ------------ | ------------ |
-|  ... | ... | ... |
+|  Carla Silva | Registrar as informações de pessoas que receberam doações e itens doados na paróquia onde sou voluntária | Para fazer o registro digital sem a necessidade de ajuda de outros voluntários e para otimizar o meu trabalho. |
 
 ## Requisitos
 
