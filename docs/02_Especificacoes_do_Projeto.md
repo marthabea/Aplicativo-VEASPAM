@@ -38,6 +38,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |  ID | Descrição do Requisito  |  Prioridade |
 |-------|-------------------------|----|
 |RNF-001| A aplicação móvel deve ser compatível com os sistemas Android e iOS | ALTA |
+|RNF-002| A aplicação deve armazenar os dados de forma segura em conformidade com a LGPD (Lei Geral de Proteção dos Dados).
 
 ## Restrições
 
