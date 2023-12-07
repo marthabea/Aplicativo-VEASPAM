@@ -29,6 +29,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | ------------ | ------------ | ------------ |
 |  RF-001 |  A aplicação móvel deve permitir ao usuário cadastrar uma conta. | ALTA  |
 |  RF-002 |  A aplicação móvel deve permitir a atribuição de níveis de autorização de acesso a informações registradas na aplicação. | ALTA  |
+|  RF-003 |  A aplicação móvel deve permitir ao usuário exportar o relatório em Excel dos dados armazenados. | ALTA  |
+
 
 
 #### Requisitos Não Funcionais
