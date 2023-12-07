@@ -18,7 +18,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 |  EU COMO... PERSONA | QUERO/PRECISO... FUNCIONALIDADE| PARA.. MOTIVO/VALOR  |
 | ------------ | ------------ | ------------ |
 |  Carla Silva | Registrar as informações de pessoas que receberam doações e itens doados na paróquia onde sou voluntária | Para fazer o registro digital sem a necessidade de ajuda de outros voluntários e para otimizar o meu trabalho. |
-|  Coordenador da igreja | Conseguir exportar dados registrados sobre as doações. | Facilitar a colaboração e troca de informações com outras paróquias. |
+|  Thiago João | Conseguir exportar dados registrados sobre as doações. | Facilitar a colaboração e troca de informações com outras paróquias. |
 
 ## Requisitos
 
