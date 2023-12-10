@@ -22,7 +22,7 @@ Fontes:
 
 ## Problema
 
-  ...
+Atualmente, o processo de registro de beneficiários e doações é conduzido de forma manual e não apresenta integração entre as paróquias. Como resultado, há uma lacuna de acesso às informações entre as distintas paróquias. Além disso, destaca-se a insuficiência de registros, o que compromete a elaboração de relatórios abrangentes sobre as atividades realizadas.
 
 ## Objetivos
 
