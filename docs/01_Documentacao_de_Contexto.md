@@ -1,6 +1,6 @@
 # Introdução
 
-O Vicariato Episcopal para Ação Social, Política e Ambiental (Veaspam) foi criado em 2004, respondendoaos anseios das comunidades paroquiais, pastorais e movimentos eclesiais.
+O Vicariato Episcopal para Ação Social, Política e Ambiental (Veaspam) foi criado em 2004, respondendo aos anseios das comunidades paroquiais, pastorais e movimentos eclesiais.
 
 A missão do Veaspam é: “Organizar, integrar e animar a ação social e política da Arquidiocese de Belo Horizonte, à luz do evangelho e da opção preferencial pelos pobres, sendo presença profética na construção de uma sociedade justa, igualitária e plural, fortalecendo o protagonismo dos empobrecidos”<sup>1</sup>.
 
