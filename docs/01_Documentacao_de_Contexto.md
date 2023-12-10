@@ -1,8 +1,8 @@
 # Introdução
 
-O Vicariato Episcopal para Ação Social, Política e Ambiental (Veaspam) foi criado em 2004, respondendoaos anseios das comunidades paroquiais, pastorais emovimentos eclesiais.
+O Vicariato Episcopal para Ação Social, Política e Ambiental (Veaspam) foi criado em 2004, respondendoaos anseios das comunidades paroquiais, pastorais e movimentos eclesiais.
 
-A missão do Veaspam é: “Organizar, integrar e animar aação social e política da Arquidiocese de BeloHorizonte, à luz do evangelho e da opção preferencialpelos pobres, sendo presença profética na construçãode uma sociedade justa, igualitária e plural,fortalecendo o protagonismo dos empobrecidos”<sup>1</sup>.
+A missão do Veaspam é: “Organizar, integrar e animar a ação social e política da Arquidiocese de Belo Horizonte, à luz do evangelho e da opção preferencial pelos pobres, sendo presença profética na construção de uma sociedade justa, igualitária e plural, fortalecendo o protagonismo dos empobrecidos”<sup>1</sup>.
 
 A Rede Articulação da Solidariedade (Reartsol) tem como seu principal objetivo a articulação de uma rede de solidariedade, com foco na promoção humana e na recuperação da dignidade dos mais vulneráveis na sociedade. Nesse sentido, o projeto possui ainda quatro objetivos específicos:
 
