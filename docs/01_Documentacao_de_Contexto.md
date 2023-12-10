@@ -32,13 +32,13 @@ Fontes:
 
 ### Objetivos Específicos
 
-> * Registrar e contabilizar de maneira precisa todas as contribuições recebidas e feitas pelas paróquias da Arquidiocese de Belo Horizonte. O aplicativo busca criar um sistema integrado que não apenas facilite a doação por parte dos fiéis, mas também automatize o registro e a contabilização dessas doações.
-> * Otimizar o processo de coleta de doações e distribuição, promovendo a transparência na gestão e fortalecendo o apoio das comunidades, permitindo que as paróquias possam atender melhor às necessidades de suas comunidades e realizar ações de caridade de forma mais eficiente.
+> * Registrar e contabilizar de maneira precisa todas as contribuições recebidas e feitas pelas paróquias da Arquidiocese de Belo Horizonte.
+> * Otimizar o processo de coleta de doações e distribuição, promovendo a transparência na gestão e fortalecendo o apoio das comunidades. 
 > * Implementar um sistema de cadastro de pessoas e famílias beneficiadas que proporcione à Arquidiocese de Belo Horizonte uma visão global e integrada de todos os atendidos, permitindo o acompanhamento eficaz de suas necessidades, a identificação de áreas de maior carência e a melhoria na prestação de assistência, promovendo, assim, uma atuação mais eficiente e humanitária em benefício das famílias atendidas pela Arquidiocese.
 
 ## Justificativa
 
-  ...
+ O aplicativo busca criar um sistema integrado que não apenas facilite a doação por parte dos fiéis, mas também automatize o registro e a contabilização dessas doações, permitindo que as paróquias possam atender melhor às necessidades de suas comunidades e realizar ações de caridade de forma mais eficiente.
 
 ## Público-Alvo
 
