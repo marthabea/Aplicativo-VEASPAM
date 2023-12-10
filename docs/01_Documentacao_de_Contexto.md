@@ -35,4 +35,4 @@ Fonte: VICARIATO EPISCOPAL PARA AÇÃO SOCIAL, POLÍTICA E AMBIENTAL. <b>Reartso
 
 ## Público-Alvo
 
-  ...
+Beneficiários e padres, voluntários e colaboradores que atuam nas paróquias da Rede Articulação da Solidariedade.
