@@ -38,7 +38,7 @@ Fontes:
 
 ## Justificativa
 
- O aplicativo busca criar um sistema integrado que não apenas facilite a doação por parte dos fiéis, mas também automatize o registro e a contabilização dessas doações, permitindo que as paróquias possam atender melhor às necessidades de suas comunidades e realizar ações de caridade de forma mais eficiente.
+ A iniciativa da criação do aplicativo se fundamenta na criação um sistema integrado que não apenas facilite a doação por parte dos fiéis, mas também automatize o registro e a contabilização dessas doações, permitindo que as paróquias possam atender melhor às necessidades de suas comunidades e realizar ações de caridade de forma mais eficiente.
 
 ## Público-Alvo
 
