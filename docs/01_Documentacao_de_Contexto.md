@@ -1,5 +1,9 @@
 # Introdução
 
+O Vicariato Episcopal para Ação Social, Política e Ambiental (Veaspam) foi criado em 2004, respondendoaos anseios das comunidades paroquiais, pastorais emovimentos eclesiais.
+
+A missão do Veaspam é: “Organizar, integrar e animar aação social e política da Arquidiocese de BeloHorizonte, à luz do evangelho e da opção preferencialpelos pobres, sendo presença profética na construçãode uma sociedade justa, igualitária e plural,fortalecendo o protagonismo dos empobrecidos”<sup>1</sup>.
+
 A Rede Articulação da Solidariedade (Reartsol) tem como seu principal objetivo a articulação de uma rede de solidariedade, com foco na promoção humana e na recuperação da dignidade dos mais vulneráveis na sociedade. Nesse sentido, o projeto possui ainda quatro objetivos específicos:
 
 - Assessorar paróquias e agentes para a implementação de Núcleos de Acolhida e Articulação da Solidariedade Paroquial (NAASP's), entre paróquias, e coordenar sua interligação, a fim de aprimorar a integração das ações já em andamento.
@@ -8,9 +12,13 @@ A Rede Articulação da Solidariedade (Reartsol) tem como seu principal objetivo
 
 - Contribuir para a inclusão social através do fortalecimento dos laços familiares, comunitários e sociais, assim como para a inserção na rede de serviços de amparo social. Também busca promover a participação política para garantir direitos, em cooperação com a sociedade em geral.
 
-- Apoiar iniciativas voltadas para a conquista de direitos, o protagonismo dos excluídos, a influência nas políticas públicas e a participação em conselhos, comitês e conferências, adotando uma abordagem consciente e reflexiva.
+- Apoiar iniciativas voltadas para a conquista de direitos, o protagonismo dos excluídos, a influência nas políticas públicas e a participação em conselhos, comitês e conferências, adotando uma abordagem consciente e reflexiva<sup>2</sup>.
 
-Fonte: VICARIATO EPISCOPAL PARA AÇÃO SOCIAL, POLÍTICA E AMBIENTAL. <b>Reartsol</b>: Rede Articulação da Solidariedade. c2023. Disponível em: https://social.arquidiocesebh.org.br/o-vicariato/setor-social/reartsol. Acesso em: 10 dez. 2023
+Fontes:
+
+<sup>1</sup>OLIVEIRA, André Luiz de. <b>Proposta de aplicativo</b>: estratégia de registro e comunicação de doações. Belo Horizonte: Vicariato Episcopal para Ação Social, Política e Ambiental, 2023.
+
+<sup>2</sup>VICARIATO EPISCOPAL PARA AÇÃO SOCIAL, POLÍTICA E AMBIENTAL. <b>Reartsol</b>: Rede Articulação da Solidariedade. c2023. Disponível em: https://social.arquidiocesebh.org.br/o-vicariato/setor-social/reartsol. Acesso em: 10 dez. 2023.
 
 ## Problema
 
@@ -20,14 +28,13 @@ Fonte: VICARIATO EPISCOPAL PARA AÇÃO SOCIAL, POLÍTICA E AMBIENTAL. <b>Reartso
 
 ### Objetivo Geral
 
-> Descrição do Objetivo
+> Desenvolvimento de um aplicativo de registro de doações, projetado especialmente para atender às necessidades das paróquias da Arquidiocese de Belo Horizonte. Este aplicativo irá simplificar e otimizar o processo de arrecadação e distribuição de doações, promovendo a transparência e a eficiência na gestão de donativos.
 
 ### Objetivos Específicos
 
-> * Específico 1
-> * Específico 2
-> * Específico 3
-> * ...
+> * Registrar e contabilizar de maneira precisa todas as contribuições recebidas e feitas pelas paróquias da Arquidiocese de Belo Horizonte. O aplicativo busca criar um sistema integrado que não apenas facilite a doação por parte dos fiéis, mas também automatize o registro e a contabilização dessas doações.
+> * Otimizar o processo de coleta de doações e distribuição, promovendo a transparência na gestão e fortalecendo o apoio das comunidades, permitindo que as paróquias possam atender melhor às necessidades de suas comunidades e realizar ações de caridade de forma mais eficiente.
+> * Implementar um sistema de cadastro de pessoas e famílias beneficiadas que proporcione à Arquidiocese de Belo Horizonte uma visão global e integrada de todos os atendidos, permitindo o acompanhamento eficaz de suas necessidades, a identificação de áreas de maior carência e a melhoria na prestação de assistência, promovendo, assim, uma atuação mais eficiente e humanitária em benefício das famílias atendidas pela Arquidiocese.
 
 ## Justificativa
 
@@ -35,4 +42,4 @@ Fonte: VICARIATO EPISCOPAL PARA AÇÃO SOCIAL, POLÍTICA E AMBIENTAL. <b>Reartso
 
 ## Público-Alvo
 
-Beneficiários e padres, voluntários e colaboradores que atuam nas paróquias da Rede Articulação da Solidariedade.
+Agentes de pastorais, voluntários que prestam atendimento às pessoas e famílias em situação de vulnerabilidade nas paróquias, que podem ser beneficiadas pelas doações recebidas para projetos sociais e assistência humanitária.
