@@ -32,14 +32,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |  RF-001 |  A aplicação móvel deve permitir ao usuário cadastrar uma conta. | ALTA  |
 |  RF-002 |  A aplicação móvel deve permitir a atribuição de níveis de autorização de acesso a informações registradas na aplicação. | ALTA  |
 |  RF-003 |  A aplicação móvel deve permitir ao usuário exportar o relatório em Excel dos dados armazenados. | ALTA  |
-
+|  RF-004 |  A aplicação móvel deve permitir ao usuário cadastrar beneficiários. | ALTA  |
+|  RF-005 |  A aplicação móvel deve permitir ao usuário cadastrar doações. | ALTA  |
+|  RF-006 |  A aplicação móvel deve permitir ao usuário buscar dados sobre beneficiários e doações. | ALTA  |
 
 
 #### Requisitos Não Funcionais
 
 |  ID | Descrição do Requisito  |  Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação móvel deve ser compatível com os sistemas Android e iOS | ALTA |
+|RNF-001| A aplicação móvel deve ser compatível com os sistemas Android e iOS. | ALTA |
 |RNF-002| A aplicação deve armazenar os dados de forma segura em conformidade com a LGPD (Lei Geral de Proteção dos Dados). | ALTA |
 
 ## Restrições
