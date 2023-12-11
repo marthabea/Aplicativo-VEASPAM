@@ -27,8 +27,8 @@ Este projeto é uma parceria entre a Rede Articulação da Solidariedade (Rearts
 
 ## Documentação
 
-1. Documentação de Contexto
-2. Especificação do Projeto
+1. [Documentação de Contexto](https://github.com/isabelamartinez/app-veaspam/blob/main/docs/01_Documentacao_de_Contexto.md)
+2. [Especificações do Projeto](https://github.com/isabelamartinez/app-veaspam/blob/main/docs/02_Especificacoes_do_Projeto.md)
 3. Metodologia
 4. Projeto de Interface
 5. Arquitetura da Solução
