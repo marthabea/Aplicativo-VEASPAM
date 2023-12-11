@@ -50,19 +50,23 @@ Agentes de pastorais, voluntários que prestam atendimento às pessoas e famíli
 
 - Agentes de pastorais:
 Responsabilidades: Liderar e coordenar as atividades pastorais na paróquia, além de atuarem na identificação de necessidades, organização de projetos e mobilização de recursos.
+
 Interesses: Acesso à informações relevantes e recursos que facilitem a gestão efeciente das doações.
 
 - Voluntários:
 Responsabilidades: Coletar informações necessárias para cadastrar novos doadores e registrar as doações feitas.
+
 Interesses: Redução da necessidade de registros manuais, resultando em processos mais rápidos e eficientes.
 
 - Beneficiários diretos:
 Responsabilidades: Manter atualizado o cadastro das informações na paróquia, assegurando que as informações estejam precisas.
+
 Interesses: Os beneficiários diretos têm interesse em receber as doações disponibilizadas pela paróquia.
 
 
 - Doadores:
 Responsabilidades: Realizar doações de acordo com suas possibilidades e de forma alinhada com os objetivos e necessidades da paróquia.
+
 Interesses: Efetuar doações de maneira on-line, dispensando a necessidade de deslocamento até a igreja.
 
 ![Mapa de stakeholders](https://github.com/isabelamartinez/app-veaspam/assets/89950149/0ac7cc20-f714-46c0-9005-32002fd03afd)
