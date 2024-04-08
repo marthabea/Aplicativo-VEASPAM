@@ -9,7 +9,7 @@ Este projeto é uma parceria entre a Rede Articulação da Solidariedade (Rearts
 ## Integrantes
 
 * [Daiane Campos Procópio](https://github.com/procopiodaiane)
-* [Edvaldo Gutierres Ferreira](https://github.com/edvaldo-gutierres)
+* [Laura Luana Bastos Rocha](https://github.com/lauraluana1)
 * [Gabriel Russo Grilo](https://github.com/GabrielRGrilo)
 * [Gabrielly Cristiny Gonçalves Andrade](https://github.com/gabsandrade)
 * [Isabela Martins de Carvalho Pereira](https://github.com/isabelamartinez)
