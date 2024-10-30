@@ -1,0 +1,111 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="telaVisu.telaVisualizacao"
+             Title="Parametrização"
+             Backgroundcolor="White">
+             
+    <ContentPage.ToolbarItems>
+        <!-- seta de voltar -->
+        <ToolbarItem Text="Voltar"
+                     IconImageSource="voltar_icon.svg"
+                     Clicked="OnBackButtonClicked"
+                     Order="Primary"
+                     Priority="0" />
+    </ContentPage.ToolbarItems>
+    <StackLayout Padding="20" Spacing="20" VerticalOptions="Center">
+        <!-- título parametrizável -->
+        <Label x:Name="titulousuario"
+               FontSize="Large"
+               HorizontalOptions="Center" />
+ 
+        <!-- botão para editar ficha -->
+        <Button Text="Editar Ficha"
+                HorizontalOptions="Start"
+                BackgroundColor="#005F1D"
+                TextColor="#FFFFFF"
+                FontFamily="Forum"
+                Clicked="OnEditButtonClicked" />
+
+        <StackLayout VerticalOptions="CenterAndExpand" Spacing="10">
+            
+            <!-- ficha de Dados do Atendimento -->
+            <Expander>
+                <Expander.Header>
+                    <Label Text="Dados do Atendimento" FontSize="Medium" FontAttributes="Bold" />
+                </Expander.Header>
+                <Expander.Content>
+                    <Label Text="teste da visualização" />
+                </Expander.Content>
+            </Expander>
+ 
+            <!-- ficha de Dados Pessoais -->
+            <Expander>
+                <Expander.Header>
+                    <Label Text="Dados Pessoais" FontSize="Medium" FontAttributes="Bold" />
+                </Expander.Header>
+                <Expander.Content>
+                    <Label Text="teste da visualização de dados pessoais" />
+                </Expander.Content>
+            </Expander>
+ 
+            <!-- ficha de Dados Familiares -->
+            <Expander>
+                <Expander.Header>
+                    <Label Text="Dados Familiares" FontSize="Medium" FontAttributes="Bold" />
+                </Expander.Header>
+                <Expander.Content>
+                    <Label Text="teste da visualização de dados familiares" />
+                </Expander.Content>
+            </Expander>
+ 
+            <!-- ficha de Dados de Moradia -->
+            <Expander>
+                <Expander.Header>
+                    <Label Text="Dados de Moradia" FontSize="Medium" FontAttributes="Bold" />
+                </Expander.Header>
+                <Expander.Content>
+                    <Label Text="teste da visualização de dados de moradia" />
+                </Expander.Content>
+            </Expander>
+ 
+            <!-- ficha de Situação de Saúde -->
+            <Expander>
+                <Expander.Header>
+                    <Label Text="Situação de Saúde" FontSize="Medium" FontAttributes="Bold" />
+                </Expander.Header>
+                <Expander.Content>
+                    <Label Text="teste da visualização de dados de saúde" />
+                </Expander.Content>
+            </Expander>
+ 
+            <!-- ficha de Vínculo Religioso -->
+            <Expander>
+                <Expander.Header>
+                    <Label Text="Vínculo Religioso" FontSize="Medium" FontAttributes="Bold" />
+                </Expander.Header>
+                <Expander.Content>
+                    <Label Text="teste da visualização de dados de religião" />
+                </Expander.Content>
+            </Expander>
+ 
+            <!-- ficha de Encaminhamentos e Doações -->
+            <Expander>
+                <Expander.Header>
+                    <Label Text="Encaminhamentos e Doações" FontSize="Medium" FontAttributes="Bold" />
+                </Expander.Header>
+                <Expander.Content>
+                    <Label Text="teste da visualização de dados de encaminhamentos e doações" />
+                </Expander.Content>
+            </Expander>
+ 
+        </StackLayout>
+ 
+        <!-- botão Voltar -->
+        <Button Text="Voltar"
+                HorizontalOptions="Start"
+                BackgroundColor="#F0F0F0"
+                TextColor="#005F1D"
+                FontFamily="Forum"
+                Clicked="OnBackButtonClicked" />
+    </StackLayout>
+</ContentPage>
